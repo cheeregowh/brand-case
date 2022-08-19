@@ -5,4 +5,5 @@ public class User {
     private int date;
     private int age;
     private String info;
+    private String pull;
 }
